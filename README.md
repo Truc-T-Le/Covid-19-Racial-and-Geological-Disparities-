@@ -22,7 +22,7 @@ Technique used:
 - Interactive Graphs
 
 
-Data Wrangling: (Please check out: Data Wrangling.ipynb)
+1. Data Wrangling: (Please check out: Data Wrangling.ipynb)
 - Extracted and collected data from the CDC databse. Created multiple dataframes and cleaned the data to ensure that only certain data of interest are kept for further analysis. The dataframes are then output into multiple csv files:
   -    Covid_Death_State_Counties_level.csv (Total covid-19 related death counts by all counties in the United States)
   -    Death_Counts_Race_Group.csv (Total covid-19 related death counts by racial groups)
