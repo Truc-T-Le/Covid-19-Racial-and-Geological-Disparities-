@@ -18,7 +18,6 @@ It is necessary to address these questions in order to help improve historically
 Technique used:
 - Data Wrangling
 - Data Analysis and Visualization 
-- Statistics
 - Interactive Graphs
 
 
@@ -27,3 +26,7 @@ Technique used:
   -    Covid_Death_State_Counties_level.csv (Total covid-19 related death counts by all counties in the United States)
   -    Death_Counts_Race_Group.csv (Total covid-19 related death counts by racial groups)
   -    Vac_Race.csv (The numbers of covid-19 vaccine administered based on racial groups)  
+
+2. Data Analysis and Visualization (Please check out: Covid-19_Impact_on_the_USA.ipynb)
+3. Interactive Graphs (Please check out: Covid-19_Impact_on_the_USA.ipynb)
+
