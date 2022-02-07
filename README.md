@@ -36,6 +36,6 @@ Technique used:
   -    Vac_Race.csv (The numbers of covid-19 vaccine administered based on racial groups)  
 
 2. Data Analysis and Visualization (Please check out: Covid-19_Impact_on_the_USA.ipynb)
-3. 
-4. Interactive Graphs (Please check out: Covid-19_Impact_on_the_USA.ipynb)
+
+3. Interactive Graphs (Please check out: Covid-19_Impact_on_the_USA.ipynb)
 
